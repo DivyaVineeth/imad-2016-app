@@ -5,7 +5,7 @@ element.innerHTML="New girl";
 
 //move image
 var img=document.getElemebtById('madi');
-img.onclick=function(){
-  img.style.marginleft='100px';  
+img.onclick=function (){
+  img.style.marginLeft='100px';  
     
 };
