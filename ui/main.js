@@ -4,7 +4,7 @@ var element=document.getElementById('main-text');
 element.innerHTML="New girl";  
 
 //move image
-var img=document.getElemebtById('madi');
+var img=document.getElementById('madi');
 img.onclick=function (){
   img.style.marginLeft='100px';  
     
